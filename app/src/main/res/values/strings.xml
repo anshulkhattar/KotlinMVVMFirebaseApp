@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MindApp</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="already_registered_login">
+        <u>Already Registered? Login...</u>
+    </string>
+    <string name="not_yet_registered">
+        <u>Not yet Registered? Click Here...</u>
+    </string>
+    <string name="mindapp">MindApp</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
