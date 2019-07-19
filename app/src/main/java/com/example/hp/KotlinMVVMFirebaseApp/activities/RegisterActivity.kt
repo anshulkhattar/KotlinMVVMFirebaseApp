@@ -1,4 +1,4 @@
-package com.example.hp.mindapp.activities
+package com.example.hp.KotlinMVVMFirebaseApp.activities
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
@@ -8,7 +8,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
-import com.example.hp.mindapp.R
+import com.example.hp.KotlinMVVMFirebaseApp.R
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.FirebaseDatabase
 

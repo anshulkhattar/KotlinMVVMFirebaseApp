@@ -1,16 +1,13 @@
-package com.example.hp.mindapp.adapter
+package com.example.hp.KotlinMVVMFirebaseApp.adapter
 
 import android.content.Context
 import android.databinding.DataBindingUtil
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
-import android.widget.BaseAdapter
-import com.example.hp.mindapp.R
-import com.example.hp.mindapp.databinding.JobdisplaydesignBinding
-import com.example.hp.mindapp.model.Jobs
-import com.example.hp.mindapp.viewmodel.JobListViewModel
+import com.example.hp.KotlinMVVMFirebaseApp.R
+import com.example.hp.KotlinMVVMFirebaseApp.databinding.JobdisplaydesignBinding
+import com.example.hp.KotlinMVVMFirebaseApp.viewmodel.JobListViewModel
 
 
 class JobAdapter(private val context: Context , private val arrayList: ArrayList<JobListViewModel>):

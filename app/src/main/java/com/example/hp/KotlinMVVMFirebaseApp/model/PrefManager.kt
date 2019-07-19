@@ -1,9 +1,6 @@
-package com.example.hp.mindapp.model
+package com.example.hp.KotlinMVVMFirebaseApp.model
 
 import android.content.Context
-import android.content.Context.MODE_PRIVATE
-import com.google.android.gms.flags.impl.SharedPreferencesFactory.getSharedPreferences
-import android.content.SharedPreferences
 
 
 class PrefManager internal constructor(internal var context: Context) {

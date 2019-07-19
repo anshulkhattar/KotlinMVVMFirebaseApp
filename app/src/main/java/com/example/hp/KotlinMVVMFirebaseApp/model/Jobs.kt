@@ -1,4 +1,4 @@
-package com.example.hp.mindapp.model
+package com.example.hp.KotlinMVVMFirebaseApp.model
 
 class Jobs {
     var name: String = ""

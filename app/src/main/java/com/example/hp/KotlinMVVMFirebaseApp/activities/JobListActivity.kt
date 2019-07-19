@@ -1,4 +1,4 @@
-package com.example.hp.mindapp.activities
+package com.example.hp.KotlinMVVMFirebaseApp.activities
 
 import android.arch.lifecycle.ViewModelProviders
 import android.content.Intent
@@ -6,13 +6,10 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
-import android.widget.AbsListView
 import android.widget.Button
-import android.widget.LinearLayout
-import com.example.hp.mindapp.viewmodel.JobListViewModel
-import android.widget.ListView
-import com.example.hp.mindapp.R
-import com.example.hp.mindapp.adapter.JobAdapter
+import com.example.hp.KotlinMVVMFirebaseApp.viewmodel.JobListViewModel
+import com.example.hp.KotlinMVVMFirebaseApp.R
+import com.example.hp.KotlinMVVMFirebaseApp.adapter.JobAdapter
 import com.google.firebase.auth.FirebaseAuth
 
 

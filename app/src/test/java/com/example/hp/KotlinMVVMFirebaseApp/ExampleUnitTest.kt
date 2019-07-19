@@ -1,4 +1,4 @@
-package com.example.hp.mindapp
+package com.example.hp.KotlinMVVMFirebaseApp
 
 import org.junit.Test
 

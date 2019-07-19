@@ -1,22 +1,16 @@
-package com.example.hp.mindapp.activities
+package com.example.hp.KotlinMVVMFirebaseApp.activities
 
-import android.content.Context
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.example.hp.mindapp.R
+import com.example.hp.KotlinMVVMFirebaseApp.R
 import com.google.firebase.auth.FirebaseAuth
 import android.content.SharedPreferences
-import android.preference.PreferenceManager
 import android.widget.*
-import android.R.id.edit
-import android.support.annotation.BoolRes
 import android.util.Log
-import android.R.id.edit
 import android.content.SharedPreferences.Editor
 import android.widget.EditText
-import com.example.hp.mindapp.model.PrefManager
-import kotlinx.android.synthetic.main.activity_login.*
+import com.example.hp.KotlinMVVMFirebaseApp.model.PrefManager
 
 
 class LoginActivity : AppCompatActivity() {

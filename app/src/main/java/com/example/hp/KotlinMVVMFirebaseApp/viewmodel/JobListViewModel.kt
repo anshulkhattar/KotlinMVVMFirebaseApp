@@ -1,11 +1,8 @@
-package com.example.hp.mindapp.viewmodel
+package com.example.hp.KotlinMVVMFirebaseApp.viewmodel
 
-import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.MutableLiveData
 import android.arch.lifecycle.ViewModel
-import android.util.Log
-import android.widget.Toast
-import com.example.hp.mindapp.model.Jobs
+import com.example.hp.KotlinMVVMFirebaseApp.model.Jobs
 import com.google.firebase.database.*
 
 class JobListViewModel: ViewModel {

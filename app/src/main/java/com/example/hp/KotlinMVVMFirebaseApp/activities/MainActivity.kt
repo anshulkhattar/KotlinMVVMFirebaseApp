@@ -1,11 +1,10 @@
-package com.example.hp.mindapp.activities
+package com.example.hp.KotlinMVVMFirebaseApp.activities
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
-import com.example.hp.mindapp.R
+import com.example.hp.KotlinMVVMFirebaseApp.R
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {
